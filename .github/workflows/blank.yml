@@ -14,4 +14,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           owner: tf0536 # fork 的上游仓库 user
           head: main # fork 的上游仓库 branch
-          base: iptv # 本地仓库 branch
+          base: main # 本地仓库 branch
